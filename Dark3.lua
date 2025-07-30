@@ -1,3 +1,6 @@
+--[[
+Kama X Was Here!!!!!
+]]
 local args = {
     [1] = "RolePlayName",
     [2] = "مًطِوٌر آلَسِکْربًتٌ سِجّآدٍ"
