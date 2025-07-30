@@ -1,3 +1,6 @@
+--[[
+Kama X Was Here!!!!!
+]]
 shared.LoaderTitle = "جاري التحميل...";
 shared.LoaderKeyFrames = {
     [1] = {
