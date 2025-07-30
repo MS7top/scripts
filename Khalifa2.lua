@@ -1,3 +1,6 @@
+--[[
+Kama X Was Here!!!!!
+]]
 game:GetService("ReplicatedStorage").RE["1RPNam1eTex1t"]:FireServer("RolePlayName", "-سڪـربـت الـمـطور خليفه V0.1-")
 
 local args = {
