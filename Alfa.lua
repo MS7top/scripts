@@ -1,3 +1,6 @@
+--[[
+Kama X Was Here!!!!!
+]]
 shared.LoaderTitle = "جـارٍ تحـميـل سـكـربـت الـمـطـور آلـفـا ";
 shared.LoaderKeyFrames = {
     [1] = {
