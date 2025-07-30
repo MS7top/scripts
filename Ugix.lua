@@ -1,3 +1,6 @@
+--[[
+Kama X Was Here!!!!!
+]]
 loadstring(game:HttpGet(("https://raw.githubusercontent.com/MS7top/GUI/refs/heads/main/UGIXTRASH%20GUI.txt")))()
 MakeWindow({
   Hub = {
