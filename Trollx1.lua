@@ -1,3 +1,6 @@
+--[[
+Kama X Was Here!!!!!
+]]
 wait(0.1)
 game.StarterGui:SetCore("SendNotification", {
     Title = "جارِ تحميل سكربت ";
